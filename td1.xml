@@ -1,0 +1,42 @@
+<?xml version ="1.0" encoding="iso-8859-1" ?>
+
+<projects>
+
+    <project name="projet1">
+
+        <librairies>
+            <librairie>   
+                <name> JDBC </name>
+                <version> 21.3.0 </version>
+                <description> </description>
+            </librairie>
+            <librairie>   
+                <name> Junit </name>
+                <version> 4.13.2 </version>
+                <description> </description>
+            </librairie>
+            <librairie>   
+                <name> Jersey </name>
+                <version> 3.0.3 </version>
+                <description> </description>
+            </librairie>
+        </librairies>
+
+        <serveurs>
+            <serveur>
+                <name> test </name>
+                <url> </url>
+            </serveur>
+            <serveur>
+                <name> integration </name>
+                <url> </url>
+            </serveur>
+            <serveur>
+                <name> production </name>
+                <url> </url>
+            </serveur>
+        </serveurs>
+        
+    </project>
+    
+</projects>

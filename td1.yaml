@@ -1,0 +1,21 @@
+
+projects: 
+    - name : Projet1
+      librairies : 
+        - name :  JDBC
+          version : 21.3.0
+          description :
+        - name :  Junit
+          version : 4.13.2
+          description : 
+        - name :  Jersey
+          version : 3.0.3
+          description :                      
+      serveurs : 
+        - name :  test
+          url :               
+        - name :  integration
+          url :           
+        - name :  production
+          url :                                
+

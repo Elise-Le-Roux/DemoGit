@@ -1,0 +1,38 @@
+{
+    "projects": [
+        {
+            "name" : "Projet1",
+            "librairies" : [ 
+                {
+                    "name" : "JDBC",
+                    "version" : "21.3.0",
+                    "description" : null
+                },
+                {
+                    "name" : "Junit",
+                    "version" : "4.13.2",
+                    "description" : null
+                },
+                {
+                    "name" : "Jersey",
+                    "version" : "3.0.3",
+                    "description" : null
+                }
+            ],
+            "serveurs" : [ 
+                {
+                    "name" : "test",
+                    "url" : null
+                },
+                {
+                    "name" : "integration",
+                    "url" : null
+                },
+                {
+                    "name" : "production",
+                    "url" : null
+                }
+            ]
+        }
+    ]
+}
